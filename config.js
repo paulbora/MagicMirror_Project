@@ -13,7 +13,8 @@ let config = {
 	logLevel: ["INFO", "LOG", "WARN", "ERROR"],
 	timeFormat: 24,
 	units: "metric",
-
+//buna SVGFEGaussianBlurElement, astea este un test//
+//finwinw//
 	modules: [
 		{
 			module: "alert",
