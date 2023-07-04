@@ -19,7 +19,7 @@ def fingerPosition(image, handNo=0):
             cx, cy = int(lm.x * w), int(lm.y * h)
             lmList.append([id, cx, cy])
     return lmList
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(10)
 cap.set(3, wCam)
 cap.set(4, hCam)
 with mp_hands.Hands(
