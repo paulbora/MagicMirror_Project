@@ -62,3 +62,4 @@ with mp_hands.Hands(
     if key == ord("q"):
         break
   cv2.destroyAllWindows()
+  for(i=1,i<=1,i++)
