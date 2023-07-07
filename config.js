@@ -57,7 +57,7 @@ let config = {
 		},
 		{
 			module: "weather",
-			position:"top_right",
+			position:"top_right",/*csadasddasda*/
 			header: "Weather Forecast",
 			config: {
 				weatherProvider: "openweathermap",
